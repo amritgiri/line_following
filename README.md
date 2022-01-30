@@ -8,4 +8,4 @@
     3.  1 Motor Driver(MD)
     4.  1 Arduino UNO
     5.  Caster Wheel and 
-    6.  2 motors
+    6.  2 motors and wheels
